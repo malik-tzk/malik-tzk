@@ -1,4 +1,4 @@
-<p style="text-align: center;">#Hi there, I'm Malik :wave:</p>
+<p style="text-align: center;"> Hi there, I'm Malik :wave: </p>
 
 I am on my learning journey hoping to bring original ideas to life :grin:  
 
