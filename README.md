@@ -1,8 +1,10 @@
-<p style="text-align: center;"> Hi there, I'm Malik :wave: </p>
+<b>
+<p align="center"> Hi there, I'm Malik :wave: </p>
+</b>
 
 I am on my learning journey, hoping to stumble upon original ideas along the way and, who knows, bringing them to life :grin:  
 
-I am currently working on NLP projects, combining my passions for data science and language learning :book:
+I am currently working on NLP projects, combining my passions for data science and language learning!
 
 
 
