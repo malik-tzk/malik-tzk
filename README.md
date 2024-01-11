@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Malik 👋
+
+I am on my data science journey hoping to bring original ideas to life :grin:  
+
+
+
+
+
 
 <!--
 **malik-tzk/malik-tzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
