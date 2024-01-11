@@ -1,7 +1,8 @@
 ### Hi there, I am Malik 👋
 
-I am on my data science journey hoping to bring original ideas to life :grin:  
+I am on my learning journey hoping to bring original ideas to life :grin:  
 
+* I am currently working on NLP projects, combining my passions for data science and language learning
 
 
 
