@@ -1,4 +1,4 @@
-### Hi there, I am Malik 👋
+<p style="text-align: center;">### Hi there, I am Malik 👋</p>
 
 I am on my learning journey hoping to bring original ideas to life :grin:  
 
